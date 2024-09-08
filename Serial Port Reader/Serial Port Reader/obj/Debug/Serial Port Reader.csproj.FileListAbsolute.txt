@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\bin\Debug\Serial Port Reader.exe.config
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\bin\Debug\Serial Port Reader.exe
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\bin\Debug\Serial Port Reader.pdb
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\obj\Debug\Serial Port Reader.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\obj\Debug\Serial_Port_Reader.Form1.resources
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\obj\Debug\Serial_Port_Reader.Properties.Resources.resources
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\obj\Debug\Serial Port Reader.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\obj\Debug\Serial Port Reader.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\obj\Debug\Serial Port Reader.exe
+C:\Users\pc\source\repos\Serial Port Reader\Serial Port Reader\obj\Debug\Serial Port Reader.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serial Port Reader", "Serial Port Reader\Serial Port Reader.csproj", "{612C9089-3118-45D0-8075-7419C2878EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612C9089-3118-45D0-8075-7419C2878EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612C9089-3118-45D0-8075-7419C2878EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612C9089-3118-45D0-8075-7419C2878EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612C9089-3118-45D0-8075-7419C2878EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49CA7A7A-1320-44A4-81EC-C9ADFE7D5F3C}
+	EndGlobalSection
+EndGlobal
